@@ -1,4 +1,4 @@
-- Hi, I’m @AtharvChaudharyPortfolio
+- Hi, I’m Atharv Chaudhary
 - I’m interested in web and game development!
 - I’m currently learning Python
 - I know C# and Java
