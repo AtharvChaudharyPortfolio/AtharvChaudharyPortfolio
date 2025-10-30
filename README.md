@@ -1,12 +1,25 @@
-**Introduction:**
+## 👋 Introduction:
 - Hi, my name is Atharv Chaudhary. I'm a first-year Computer Science and Engineering Major at UCSD. I'm hoping to learn about new tools and techniques to further my   proficiency in programming and find what I want to do in the tech sector!
 - This page is meant to showcase and store projects I do for fun or to learn something new! Some projects are me testing new mechanics and tools, while others are challenges like coding without looking anything up.
 
-**More about me!:**
+## ✌️ More About Me!:
 - The languages I currently know are: C#, Java, and Python.
 - The tools I currently know how to use: PyCharm, Visual Studios, VS Code, GitHub, and Unity.
 - Things I've loosely looked into or am currently trying to learn: AWS.
-- How to reach me: Email (atharv.chaudhary2007@gmail.com) or my LinkedIn (...)
+
+## 🎮 Featured Projects
+- [Eyes of Another] (Game Demo): (add link to page)
+- [AI Voice Assistant] (Python Project): (add link to page)
+- [Slime Quest] (Game Demo): (add link to page)
+- [Western Wizards] (Game Demo): (add link to page)
+## 🧠 Interests
+- Game Development (Unity / C#)
+- Math & Physics Simulation
+- Data Visualization & Machine Learning
+
+## 📫 Contacts:
+- Email: (atharv.chaudhary2007@gmail.com)
+- LinkedIn: (...)
 
 <!---
 AtharvChaudharyPortfolio/AtharvChaudharyPortfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
