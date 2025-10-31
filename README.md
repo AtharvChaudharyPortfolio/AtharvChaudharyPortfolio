@@ -3,7 +3,7 @@
 - This repository is meant to showcase and store projects I do for fun or to learn something new! Some projects are me testing new mechanics and tools, while others are challenges like coding without looking anything up.
 
 ## ✌️ More About Me!:
-- The languages I currently know are: C#, Java, and Python.
+- The languages I currently know are: C#, Java, Python, and SQL.
 - The tools I currently know how to use: PyCharm, Visual Studios, VS Code, GitHub, and Unity.
 - Things I've loosely looked into or am currently trying to learn: AWS.
 
