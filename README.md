@@ -1,6 +1,6 @@
 ## 👋 Introduction:
 - Hi, my name is Atharv Chaudhary. I'm a first-year Computer Science and Engineering Major at UCSD. I'm striving to learn new tools, technologies, and techniques to further my proficiency in programming and find my specialization in the tech sector!
-- This page is meant to showcase and store projects I do for fun or to learn something new! Some projects are me testing new mechanics and tools, while others are challenges like coding without looking anything up.
+- This repository is meant to showcase and store projects I do for fun or to learn something new! Some projects are me testing new mechanics and tools, while others are challenges like coding without looking anything up.
 
 ## ✌️ More About Me!:
 - The languages I currently know are: C#, Java, and Python.
