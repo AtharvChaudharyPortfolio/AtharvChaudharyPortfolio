@@ -19,7 +19,7 @@
 
 ## 📫 Contacts:
 - Email: (atharv.chaudhary2007@gmail.com)
-- LinkedIn: (...)
+- LinkedIn: (http://www.linkedin.com/in/atharv-chaudhary-980362371)
 
 <!---
 AtharvChaudharyPortfolio/AtharvChaudharyPortfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
