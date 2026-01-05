@@ -9,9 +9,7 @@
 
 ## 🎮 Featured Projects
 - [Eyes of Another] (Game Demo): [(https://github.com/AtharvChaudharyPortfolio/Tritonware2025Proj)]
-- [AI Voice Assistant] (Python Project): (add link to page)
-- [Slime Quest] (Game Demo): (add link to page)
-- [Western Wizards] (Game Demo): (add link to page)
+  
 ## 🧠 Interests
 - Game Development (Unity / C#)
 - Math & Physics Simulation
