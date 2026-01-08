@@ -9,6 +9,7 @@
 
 ## 🎮 Featured Projects
 - [Eyes of Another] (Game Demo): [(https://github.com/AtharvChaudharyPortfolio/Tritonware2025Proj)]
+- (Older projects still need to be added to my GitHub)
   
 ## 🧠 Interests
 - Game Development (Unity / C#)
