@@ -4,11 +4,11 @@
 
 ## ✌️ More About Me!:
 - The languages I currently know are: C#, Java, Python, C, C++, JavaScript and SQL.
-- The tools I currently know how to use: PyCharm, Visual Studios, VS Code, GitHub, and Unity.
+- The tools I currently know how to use: PyCharm, Visual Studios, VS Code, GitHub, Unity, Mujoco, and Issac Lab.
 - Things I've loosely looked into or am currently trying to learn: AWS.
 
 ## 🎮 Featured Projects
-- [Eyes of Another] (Game Demo): [(https://github.com/AtharvChaudharyPortfolio/Tritonware2025Proj)]
+- [RL Tic Tac Toe Model] (Project): [(https://github.com/AtharvChaudharyPortfolio/RL_TicTacToe_Agent)]
 - [Robotic Simulation] (Simulation Demo): [(https://github.com/AtharvChaudharyPortfolio/RoboticSimulationProject)] (WIP)
 - (Other projects coming soon!)
   
@@ -16,8 +16,8 @@
 - Game Development (Unity / C#)
 - Math & Physics Simulation
 - Data Visualization & Machine Learning
-- Full Stack Development
-
+- Robotics, Sim-to-real transfer, & computer vision
+  
 ## 📫 Contacts:
 - Email: (atharv.chaudhary2007@gmail.com)
 - LinkedIn: (http://www.linkedin.com/in/atharv-chaudhary-980362371)
