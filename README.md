@@ -9,7 +9,7 @@
 
 ## 🎮 Featured Projects
 - [RL Tic Tac Toe Model] (Project): [(https://github.com/AtharvChaudharyPortfolio/RL_TicTacToe_Agent)]
-- [Robotic Simulation] (Simulation Demo): [(https://github.com/AtharvChaudharyPortfolio/RoboticSimulationProject)] (WIP)
+- [RL Robotic Simulation] (Simulation Demo): [(https://github.com/AtharvChaudharyPortfolio/RoboticSimulationProject)]
 - (Other projects coming soon!)
   
 ## 🧠 Interests
