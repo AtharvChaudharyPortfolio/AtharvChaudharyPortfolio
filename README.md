@@ -1,10 +1,10 @@
 ## 👋 Introduction:
-- Hi, my name is Atharv Chaudhary. I'm a first-year Computer Science and Engineering Major at UCSD. I'm striving to learn new tools, technologies, and techniques to further my proficiency in programming and find my specialization in the tech sector!
+- Hi, my name is Atharv Chaudhary. I'm a second-year Computer Science and Engineering Major at UCSD. I'm working to learn new tools, technologies, and techniques to improve my skills in physics simulation and programming!
 - This repository is meant to showcase and store projects I do for fun or to learn something new! Some projects are me testing new mechanics and tools, while others are challenges like coding without looking anything up.
 
 ## ✌️ More About Me!:
 - The languages I currently know are: C#, Java, Python, C, C++, JavaScript and SQL.
-- The tools I currently know how to use: PyCharm, Visual Studios, VS Code, GitHub, Unity, Mujoco, and Issac Lab.
+- The tools I currently know how to use: PyCharm, Visual Studio, VS Code, GitHub, Unity, Mujoco, and Issac Lab.
 - Things I've loosely looked into or am currently trying to learn: AWS.
 
 ## 🎮 Featured Projects
